@@ -1,8 +1,16 @@
 #	Rust
 ##------------------------------------------------
+
+
 Welcome to my Rust learning documentation
-I will use the [Rust-Book](https://doc.rust-lang.org/book/) and [LetsGetRusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)'s Youtube playlist for further understanding.
-And of course [ChatGPT](chat.openai.com).
+
+
+I will use the 
++ [Rust-Book](https://doc.rust-lang.org/book/) and 
++ [LetsGetRusty](https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)'s Youtube playlist for further understanding.
++ And of course [ChatGPT](https://chat.openai.com).
+
+
 ##------------------------------------------------
 ### What chapters I ll treat this week:
 #### 1.) Intro and Install
@@ -15,4 +23,6 @@ And of course [ChatGPT](chat.openai.com).
 > + Functions
 > + Comments
 > + Control Flow
+
+
 ##-----------------------------------------------
