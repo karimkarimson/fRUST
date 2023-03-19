@@ -15,6 +15,8 @@ I will use the
 ### What chapters I ll treat this week:
 #### 1.) Intro and Install
 > Hello Rust-World
+
+
 > Hello Cargo
 #### 2.) Programming a guessing game
 #### 3.) Common Programming Concepts
