@@ -1,7 +1,4 @@
 #	Rust
-##------------------------------------------------
-
-
 Welcome to my Rust learning documentation
 
 
@@ -11,13 +8,10 @@ I will use the
 + And of course [ChatGPT](https://chat.openai.com).
 
 
-##------------------------------------------------
 ### What chapters I ll treat this week:
 #### 1.) Intro and Install
-> Hello Rust-World
-
-
-> Hello Cargo
+> + Hello Rust-World
+> + Hello Cargo
 #### 2.) Programming a guessing game
 #### 3.) Common Programming Concepts
 > + Variables & Mutability
@@ -25,6 +19,3 @@ I will use the
 > + Functions
 > + Comments
 > + Control Flow
-
-
-##-----------------------------------------------
